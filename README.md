@@ -159,3 +159,9 @@ B.Tech – Computer Science Engineering (AI & ML)
 ## 📌 Conclusion
 
 This project demonstrates an end-to-end data analytics workflow using SQL, Python, and Power BI to transform raw retail data into meaningful business insights. It showcases practical skills in data cleaning, statistical analysis, visualization, KPI development, and business intelligence reporting.
+
+## 🎥 Project Presentation
+
+Watch the complete project demonstration below:
+
+[▶️ **Watch Project Presentation Video**](https://drive.google.com/file/d/1v8VRgHq557d_rZQIXk95pclLH5b2qMov/view?usp=sharing)
